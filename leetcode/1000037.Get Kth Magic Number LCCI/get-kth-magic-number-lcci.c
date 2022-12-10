@@ -1,0 +1,5 @@
+
+
+int getKthMagicNumber(int k){
+
+}

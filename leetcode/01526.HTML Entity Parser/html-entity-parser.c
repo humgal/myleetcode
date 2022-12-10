@@ -1,0 +1,5 @@
+
+
+char * entityParser(char * text){
+
+}

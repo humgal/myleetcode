@@ -1,0 +1,5 @@
+
+
+bool canPermutePalindrome(char* s){
+
+}

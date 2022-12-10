@@ -1,0 +1,5 @@
+
+
+int minNumberOfFrogs(char * croakOfFrogs){
+
+}

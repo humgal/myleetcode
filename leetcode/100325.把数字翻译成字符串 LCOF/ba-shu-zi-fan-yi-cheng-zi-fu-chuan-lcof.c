@@ -1,0 +1,5 @@
+
+
+int translateNum(int num){
+
+}

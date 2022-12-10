@@ -1,0 +1,5 @@
+
+
+char * longestPrefix(char * s){
+
+}

@@ -1,0 +1,5 @@
+
+
+char firstUniqChar(char* s){
+
+}

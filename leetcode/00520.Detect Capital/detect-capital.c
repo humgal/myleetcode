@@ -1,0 +1,5 @@
+
+
+bool detectCapitalUse(char * word){
+
+}

@@ -1,0 +1,5 @@
+
+
+int strToInt(char* str){
+
+}

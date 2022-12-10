@@ -1,0 +1,5 @@
+
+
+bool isPowerOfTwo(int n){
+
+}

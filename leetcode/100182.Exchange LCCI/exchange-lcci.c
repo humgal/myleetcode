@@ -1,0 +1,5 @@
+
+
+int exchangeBits(int num){
+
+}

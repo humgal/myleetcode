@@ -1,0 +1,5 @@
+
+
+char* compressString(char* S){
+
+}

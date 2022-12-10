@@ -1,0 +1,5 @@
+
+
+bool equalFrequency(char * word){
+
+}

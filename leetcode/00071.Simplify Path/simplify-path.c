@@ -1,0 +1,5 @@
+
+
+char * simplifyPath(char * path){
+
+}

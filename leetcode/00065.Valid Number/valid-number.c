@@ -1,0 +1,5 @@
+
+
+bool isNumber(char * s){
+
+}

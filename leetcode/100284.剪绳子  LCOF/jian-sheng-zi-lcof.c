@@ -1,0 +1,5 @@
+
+
+int cuttingRope(int n){
+
+}
